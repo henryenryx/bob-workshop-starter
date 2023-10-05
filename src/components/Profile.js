@@ -13,17 +13,17 @@ function Profile() {
       spacing={2}
     >
       <Avatar
-        src="/jackiechan.jpeg"
+        src="/nigerianp.jpeg"
         alt="Blomst"
         sx={{
           width: 150,
           height: 150,
           margin: "auto",
-          border: "4px solid #3f51b5",
+          border: "4px solid #FFD700",
         }}
       />
-      <Typography variant="h4" gutterBottom color="#3f51b5">
-        Fineste mannen i verden
+      <Typography variant="h4" gutterBottom color="#000000">
+      Prins Adebayo
       </Typography>
     </Stack>
   );

@@ -42,7 +42,7 @@ function ContactForm() {
 
       if (data.success) {
         setSnackbarMessage(
-          "Din melding har blitt sendt! Takk for at du kontaktet oss."
+          "AHAHA! Du har blitt scammet! Jeg har overført alle pengene dine til meg"
         );
         setSnackbarType("success");
         setFormData({ email: "", message: "" });
@@ -60,13 +60,13 @@ function ContactForm() {
 
   return (
     <Box py={5} bgcolor="#ffffff" borderRadius={3} boxShadow={3} mt={4} px={3}>
-      <Typography variant="h6" gutterBottom color="#3f51b5">
-        Kontakt Meg
+      <Typography variant="h6" gutterBottom color="#000000">
+        BANK INFO
       </Typography>
 
       <Stack component="form" onSubmit={handleSubmit} spacing={2}>
         <TextField
-          label="Din e-post"
+          label="Bank Innehaver"
           variant="outlined"
           fullWidth
           margin="normal"
@@ -76,7 +76,7 @@ function ContactForm() {
           type="email"
         />
         <TextField
-          label="Melding"
+          label="Bank Nummer"
           variant="outlined"
           fullWidth
           multiline

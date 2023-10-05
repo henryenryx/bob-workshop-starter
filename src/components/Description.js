@@ -8,7 +8,7 @@ function Description() {
         Om Meg
       </Typography>
       <Typography>
-      Jackie Chan, den legendariske kinesiske skuespilleren, stuntmannen og regissøren, har etablert seg som en ikonisk skikkelse innenfor filmindustrien. Med sin unike blanding av kampsportferdigheter og komisk timing har han trollbundet publikum verden over i flere tiår. Hans energiske og spektakulære stuntsekvenser har satt standarden for actionfilmer, og hans dedikasjon til å utføre egne farlige stunt har gjort ham til en ekte pioner innen filmverdenen. Jackie Chan er ikke bare kjent for sitt talent på lerretet, men også for sitt hjerte av gull og hans filantropiske arbeid. Han har inspirert generasjoner av filmelskere med sitt unike talent, sitt mot og sin urokkelige dedikasjon til sitt håndverk.      </Typography>
+      Kjære alle sammen, Jeg er Prins Adebayo fra Nigeria, og jeg står overfor en alvorlig økonomisk nødssituasjon. Våre familieformuer har tapt seg, og jeg trenger øyeblikkelig hjelp for å redde det som er igjen av våre eiendeler. Enhver økonomisk støtte dere kan tilby, vil være uvurderlig for meg og min familie. Vennligst vurder å hjelpe meg i denne kritiske tiden. Kontakt meg på min personlige e-postadresse for mer informasjon om hvordan dere kan bidra. Takk for deres vennlighet og forståelse. Varm hilsen, Prins Adebayo      </Typography>
     </Box>
   );
 }
