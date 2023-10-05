@@ -8,13 +8,7 @@ function Description() {
         Om Meg
       </Typography>
       <Typography>
-        Hei! Dette bildet er av en sjarmerende blomst hentet fra Unsplash.
-        Unsplash tilbyr et bredt utvalg av gratis bilder av høy kvalitet som kan
-        brukes til forskjellige formål. Så hvis du leter etter inspirerende
-        bilder for ditt neste prosjekt, anbefales det å sjekke ut Unsplash. For
-        øvrig, denne teksten ble generert med hjelp av ChatGPT fra OpenAI.
-        Fascinerende, ikke sant?
-      </Typography>
+      Jackie Chan, den legendariske kinesiske skuespilleren, stuntmannen og regissøren, har etablert seg som en ikonisk skikkelse innenfor filmindustrien. Med sin unike blanding av kampsportferdigheter og komisk timing har han trollbundet publikum verden over i flere tiår. Hans energiske og spektakulære stuntsekvenser har satt standarden for actionfilmer, og hans dedikasjon til å utføre egne farlige stunt har gjort ham til en ekte pioner innen filmverdenen. Jackie Chan er ikke bare kjent for sitt talent på lerretet, men også for sitt hjerte av gull og hans filantropiske arbeid. Han har inspirert generasjoner av filmelskere med sitt unike talent, sitt mot og sin urokkelige dedikasjon til sitt håndverk.      </Typography>
     </Box>
   );
 }
